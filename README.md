@@ -5,7 +5,7 @@ public artwork repo, but instead relies on my own GB/GBC/GBA ROM manager
 being able to export artwork; also, it can extract screenshots from 
 titles.zip in MAME Extras.
 
-The code should be reasonably self-explanatory and extendable. Maybe I'll
+The code should be reasonably self-explanatory and extensible. Maybe I'll
 add screenscraper.fr API support at one point, but for now, it does exactly
 what I need it to do :-)
 
